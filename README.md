@@ -17,7 +17,7 @@
 ## 霞鶩文楷傳承版
 
 ## 文楷注音符號 澳聲通 改
-資料夾 fonts\ttf\ 之中有4 TTF字型檔
+資料夾 fonts\ttf\ 之中有4個TTF字型檔
 
 * ToneOZ-Wenkai-BPMF-Only-200.ttf
 * ToneOZ-Wenkai-BPMF-Only-400.ttf
